@@ -1,0 +1,2669 @@
+html {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+body {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+div {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+span {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+applet {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+object {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+iframe {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+h1 {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+h2 {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+h3 {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+h4 {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+h5 {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+h6 {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+p {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+blockquote {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+pre {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+a {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+abbr {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+acronym {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+address {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+big {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+cite {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+code {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+del {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+dfn {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+em {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+img {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+ins {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+kbd {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+q {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+s {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+samp {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+small {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+strike {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+strong {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+sub {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+sup {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+tt {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+var {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+b {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+u {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+i {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+center {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+dl {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+dt {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+dd {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+ol {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+ul {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+li {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+fieldset {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+form {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+label {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+legend {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+table {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+caption {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+tbody {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+tfoot {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+thead {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+tr {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+th {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+td {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+article {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+aside {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+canvas {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+details {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+embed {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+figure {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+figcaption {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+footer {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+header {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+hgroup {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+menu {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+nav {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+output {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+ruby {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+section {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+summary {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+time {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+mark {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+audio {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+video {
+	margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; 
+}
+article {
+	display: block;
+}
+aside {
+	display: block;
+}
+details {
+	display: block;
+}
+figcaption {
+	display: block;
+}
+figure {
+	display: block;
+}
+footer {
+	display: block;
+}
+header {
+	display: block;
+}
+hgroup {
+	display: block;
+}
+menu {
+	display: block;
+}
+nav {
+	display: block;
+}
+section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol {
+	list-style: none;
+}
+ul {
+	list-style: none;
+}
+blockquote {
+	quotes: none;
+}
+q {
+	quotes: none;
+}
+blockquote::before {
+	content: none;
+}
+blockquote::after {
+	content: none;
+}
+q::before {
+	content: none;
+}
+q::after {
+	content: none;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+.clear {
+	clear: both;
+}
+div.clear::after {
+	height: 0px; line-height: 0px; clear: both; display: block; visibility: hidden; content: ".";
+}
+* html div.clear {
+	height: 1%;
+}
+body {
+	color: #611149; font-family: Arial,Helvetica,sans-serif; font-size: 12px;
+background-image: linear-gradient(bottom, rgb(189,175,150) 41%, rgb(37,17,20) 90%);
+background-image: -o-linear-gradient(bottom, rgb(189,175,150) 41%, rgb(37,17,20) 90%);
+background-image: -moz-linear-gradient(bottom, rgb(189,175,150) 41%, rgb(37,17,20) 90%);
+background-image: -webkit-linear-gradient(bottom, rgb(189,175,150) 41%, rgb(37,17,20) 90%);
+background-image: -ms-linear-gradient(bottom, rgb(189,175,150) 41%, rgb(37,17,20) 90%);
+
+background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0.41, rgb(189,175,150)),
+	color-stop(0.9, rgb(37,17,20))
+);
+}
+a {
+	color: #f3f3f3; text-decoration: none;
+}
+a:focus {
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: underline;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+.imageblock {
+	border: 4px solid white; overflow: hidden; box-shadow: 0px 1px 3px rgba(16,16,16,0.3); -moz-box-shadow: 0 1px 3px rgba(16, 16, 16, .3); -webkit-box-shadow: 0 1px 3px rgba(16, 16, 16, .3);
+}
+.imageblock img {
+	width: 100%;
+}
+.none {
+	display: none;
+}
+.empty_value {
+	display: none;
+}
+.empty_text {
+	display: none;
+}
+h1 {
+	margin: 25px 0px 15px; line-height: 1.1; font-weight: bold;
+}
+h2 {
+	margin: 25px 0px 15px; line-height: 1.1; font-weight: bold;
+}
+h3 {
+	margin: 25px 0px 15px; line-height: 1.1; font-weight: bold;
+}
+h4 {
+	margin: 25px 0px 15px; line-height: 1.1; font-weight: bold;
+}
+h5 {
+	margin: 25px 0px 15px; line-height: 1.1; font-weight: bold;
+}
+h6 {
+	margin: 25px 0px 15px; line-height: 1.1; font-weight: bold;
+}
+h1:first-child {
+	margin-top: 0px;
+}
+h2:first-child {
+	margin-top: 6px;
+}
+h3:first-child {
+	margin-top: 0px;
+}
+h4:first-child {
+	margin-top: 0px;
+}
+h5:first-child {
+	margin-top: 0px;
+}
+h6:first-child {
+	margin-top: 0px;
+}
+h1 {
+	font-size: 36px;
+}
+h2 {
+	font-size: 24px;
+}
+h3 {
+	font-size: 18px;
+}
+h4 {
+	font-size: 16px;
+}
+h5 {
+	font-size: 16px;
+}
+h6 {
+	font-size: 16px;
+}
+h1#pagetitle {
+	padding: 15px 20px; font-size: 16px; margin-bottom: 0px;
+}
+h2.titleblock {
+	padding: 0px 0px 5px; font-size: 14px;font-weight: bold; margin-bottom: 15px; border-bottom-color: rgb(231, 231, 231); border-bottom-width: 1px; border-bottom-style: solid;color:#f2f2f2;
+}
+p {
+	margin: 0px 0px 1.5em; color: #000000; line-height: 18px;
+}
+blockquote {
+	margin: 1.5em; color: rgb(102, 102, 102); font-style: italic;
+}
+strong {
+	font-weight: bold;
+}
+dfn {
+	font-weight: bold;
+}
+b {
+	font-weight: bold;
+}
+em {
+	font-style: italic;
+}
+dfn {
+	font-style: italic;
+}
+i {
+	font-style: italic;
+}
+sup {
+	line-height: 0;
+}
+sub {
+	line-height: 0;
+}
+abbr {
+	border-bottom-color: rgb(102, 102, 102); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+acronym {
+	border-bottom-color: rgb(102, 102, 102); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+address {
+	margin: 0px 0px 1.5em; font-style: italic;
+}
+del {
+	color: rgb(102, 102, 102);
+}
+pre {
+	margin: 1.5em 0px; white-space: pre;
+}
+pre {
+	font: 1em/1.5 "andale mono", "lucida console", monospace; font-size-adjust: none; font-stretch: normal;
+}
+code {
+	font: 1em/1.5 "andale mono", "lucida console", monospace; font-size-adjust: none; font-stretch: normal;
+}
+tt {
+	font: 1em/1.5 "andale mono", "lucida console", monospace; font-size-adjust: none; font-stretch: normal;
+}
+li ul {
+	margin: 0px;
+}
+li ol {
+	margin: 0px;
+}
+ul {
+	margin: 0px 1.5em 1.5em 0px; padding-left: 1.5em;
+}
+ol {
+	margin: 0px 1.5em 1.5em 0px; padding-left: 1.5em;
+}
+ul {
+	list-style-type: disc;
+}
+ol {
+	list-style-type: decimal;
+}
+form fieldset {
+	padding: 10px 0px 20px; position: relative;
+}
+form fieldset.first {
+	padding-top: 0px;
+}
+form fieldset.last {
+	padding-bottom: 0px; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+form fieldset:only-of-type {
+	padding-bottom: 0px; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+form legend {
+	line-height: 1.5; padding-bottom: 10px; font-size: 18px;
+}
+#page_form {
+	background: white; border-width: 1px; border-style: solid; border-color: rgb(240, 240, 240) rgb(240, 240, 240) rgb(214, 214, 214); padding: 20px;
+}
+#page_form form legend {
+	padding: 0px 0px 5px; font-size: 17px; font-weight: bold;
+}
+.template-property form legend {
+	font-size: 14px;
+}
+form label {
+	color: rgb(17, 16, 26); font-size: 14px; margin-bottom: 5px; display: block;
+}
+form .boxfield label {
+	margin: 0px 10px 0px 0px; float: left;
+}
+form .mandatory > label::after {
+	color: rgb(255, 0, 0); margin-left: 5px; content: "*";
+}
+form input[type='text'] {
+	padding: 9px 12px; border-radius: 3px / 3px 3px 4px 4px; border: 1px solid rgb(226, 226, 226); width: 266px; color: rgb(114, 114, 114); margin-bottom: 10px; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.11); background-color: #ffffff; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-border-radius: 3px/3px 3px 4px 4px; -moz-border-radius: 3px/3px 3px 4px 4px;
+}
+form input[type='tel'] {
+	padding: 9px 12px; border-radius: 3px / 3px 3px 4px 4px; border: 1px solid rgb(226, 226, 226); width: 266px; color: rgb(114, 114, 114); margin-bottom: 10px; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.11); background-color: #ffffff; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-border-radius: 3px/3px 3px 4px 4px; -moz-border-radius: 3px/3px 3px 4px 4px;
+}
+form input[type='email'] {
+	padding: 9px 12px; border-radius: 3px / 3px 3px 4px 4px; border: 1px solid rgb(226, 226, 226); width: 266px; color: rgb(114, 114, 114); margin-bottom: 10px; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.11); background-color: #ffffff; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-border-radius: 3px/3px 3px 4px 4px; -moz-border-radius: 3px/3px 3px 4px 4px;
+}
+form input[type='search'] {
+	padding: 9px 12px; border-radius: 3px / 3px 3px 4px 4px; border: 1px solid rgb(226, 226, 226); width: 266px; color: rgb(114, 114, 114); margin-bottom: 10px; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.11); background-color: #ffffff; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-border-radius: 3px/3px 3px 4px 4px; -moz-border-radius: 3px/3px 3px 4px 4px;
+}
+form input[type='file'] {
+	padding: 9px 12px; border-radius: 3px / 3px 3px 4px 4px; border: 1px solid rgb(226, 226, 226); width: 266px; color: rgb(114, 114, 114); margin-bottom: 10px; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.11); background-color: #ffffff; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-border-radius: 3px/3px 3px 4px 4px; -moz-border-radius: 3px/3px 3px 4px 4px;
+}
+form input[type='password'] {
+	padding: 9px 12px; border-radius: 3px / 3px 3px 4px 4px; border: 1px solid rgb(226, 226, 226); width: 266px; color: rgb(114, 114, 114); margin-bottom: 10px; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.11); background-color: #ffffff; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-border-radius: 3px/3px 3px 4px 4px; -moz-border-radius: 3px/3px 3px 4px 4px;
+}
+form select {
+	padding: 9px 12px; border-radius: 3px / 3px 3px 4px 4px; border: 1px solid rgb(226, 226, 226); width: 266px; color: rgb(114, 114, 114); margin-bottom: 10px; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.11); background-color: #ffffff; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-border-radius: 3px/3px 3px 4px 4px; -moz-border-radius: 3px/3px 3px 4px 4px;
+}
+form textarea {
+	padding: 9px 12px; border-radius: 3px / 3px 3px 4px 4px; border: 1px solid rgb(226, 226, 226); width: 266px; color: rgb(114, 114, 114); margin-bottom: 10px; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.11); background-color: #ffffff; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-border-radius: 3px/3px 3px 4px 4px; -moz-border-radius: 3px/3px 3px 4px 4px;
+}
+form select {
+	-webkit-appearance: none;
+}
+@media not all
+{
+form select:not([multiple]) {
+	background: url("http://static.kigo.net/templates/simple/img/select-icons.png") no-repeat right #ffffff; padding-right: 25px;
+}
+form select:not([multiple]):hover {
+	
+}
+}
+form textarea {
+	width: 550px; height: 100px; resize: none;
+}
+form .missing input {
+	border-color: rgb(251, 90, 137) !important;
+}
+form .missing select {
+	border-color: rgb(251, 90, 137) !important;
+}
+form .missing textarea {
+	border-color: rgb(251, 90, 137) !important;
+}
+form .buttonsblock {
+	width: 550px; text-align: right;
+}
+.ua-msie-7 form input[type='text'] {
+	height: 29px;
+}
+.ua-msie-7 form input[type='tel'] {
+	height: 29px;
+}
+.ua-msie-7 form input[type='email'] {
+	height: 29px;
+}
+.ua-msie-7 form input[type='search'] {
+	height: 29px;
+}
+.ua-msie-7 form input[type='file'] {
+	height: 29px;
+}
+.ua-msie-7 form input[type='password'] {
+	height: 29px;
+}
+.ua-msie-7 form select {
+	height: 29px;
+}
+.ua-msie-7 form textarea {
+	height: 29px;
+}
+form input[disabled] {
+	opacity: 0.4;
+}
+form select[disabled] {
+	opacity: 0.4;
+}
+form textarea[disabled] {
+	opacity: 0.4;
+}
+div.submitted#fill_form div#page_form {
+	display: none;
+}
+div#fill_form div#form_submitted {
+	display: none;
+}
+div.submitted#fill_form div#form_submitted {
+	display: block;
+}
+.boxfield {
+	margin-bottom: 10px; display: block;
+}
+.radios {
+	margin-bottom: 10px; display: block;
+}
+.boxfield ul {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.radios ul {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.radios::before {
+	display: table; content: "";
+}
+.radios::after {
+	display: table; content: "";
+}
+.boxfield::before {
+	display: table; content: "";
+}
+.boxfield::after {
+	display: table; content: "";
+}
+.radios::after {
+	clear: both;
+}
+.boxfield::after {
+	clear: both;
+}
+.boxfield {
+	-ms-zoom: 1;
+}
+.radios {
+	-ms-zoom: 1;
+}
+.boxfield li {
+	height: 20px; margin-bottom: 4px;
+}
+.radios li {
+	margin-right: 20px; float: left;
+}
+li:not(#foo) > label > input[type='radio'] {
+	float: left; cursor: pointer; opacity: 0;
+}
+li:not(#foo) > label > input[type='checkbox'] {
+	float: left; cursor: pointer; opacity: 0;
+}
+li:not(#foo) > label > input[type='checkbox'] + span {
+	background: url("http://static.kigo.net/templates/simple/img/select.png") no-repeat left top; margin: 0px 0px 0px -20px; padding: 2px 0px 2px 24px; height: 14px; clear: none; display: inline-block; cursor: pointer;
+}
+li:not(#foo) > label > input[type='radio'] + span {
+	background: url("http://static.kigo.net/templates/simple/img/radio.png") no-repeat left bottom; margin: 0px 0px 0px -20px; padding: 0px 0px 0px 20px; height: 14px; clear: none; display: inline-block; cursor: pointer;
+}
+li:not(#foo) > label > input[type='radio']:checked + span {
+	background: url("http://static.kigo.net/templates/simple/img/radio.png") no-repeat left top;
+}
+li:not(#foo) > label > input[type='checkbox']:checked + span {
+	background: url("http://static.kigo.net/templates/simple/img/select.png") no-repeat left bottom;
+}
+button {
+	border-width: 1px; border-style: solid; border-color: rgb(187, 187, 187) rgb(187, 187, 187) rgb(162, 162, 162); padding: 7px 23px; border-radius: 4px; text-align: center; color: #ffffff; line-height: 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-decoration: none; margin-bottom: 12px; vertical-align: middle; display: inline-block; cursor: pointer; box-shadow: inset 0px 1px 0px rgba(255,255,255,0.2), 0px 1px 2px rgba(0,0,0,0.05); text-shadow: 0px -1px 0px rgba(0,0,0,0.49); background-image: linear-gradient(rgb(235, 40, 89), rgb(111, 10, 35)); background-repeat: repeat-x; background-color: hsl(345, 84%, 24%); -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .2), 0 1px 2px rgba(0, 0, 0, .05); -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .2), 0 1px 2px rgba(0, 0, 0, .05); -webkit-border-radius: 4px; -moz-border-radius: 4px;
+}
+#availability_and_price .ob a {
+	border-width: 1px; border-style: solid; border-color: rgb(187, 187, 187) rgb(187, 187, 187) rgb(162, 162, 162); padding: 7px 23px; border-radius: 4px; text-align: center; color: #ffffff; line-height: 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-decoration: none; margin-bottom: 12px; vertical-align: middle; display: inline-block; cursor: pointer; box-shadow: inset 0px 1px 0px rgba(255,255,255,0.2), 0px 1px 2px rgba(0,0,0,0.05); text-shadow: 0px -1px 0px rgba(0,0,0,0.49); background-image: linear-gradient(rgb(235, 40, 89), rgb(111, 10, 35)); background-repeat: repeat-x; background-color: hsl(345, 84%, 24%); -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .2), 0 1px 2px rgba(0, 0, 0, .05); -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .2), 0 1px 2px rgba(0, 0, 0, .05); -webkit-border-radius: 4px; -moz-border-radius: 4px;
+}
+.view_details {
+	border-width: 1px; border-style: solid; border-color: rgb(187, 187, 187) rgb(187, 187, 187) rgb(162, 162, 162); padding: 7px 23px; border-radius: 4px; text-align: center; color: #ffffff; line-height: 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-decoration: none; margin-bottom: 12px; vertical-align: middle; display: inline-block; cursor: pointer; box-shadow: inset 0px 1px 0px rgba(255,255,255,0.2), 0px 1px 2px rgba(0,0,0,0.05); text-shadow: 0px -1px 0px rgba(0,0,0,0.49); background-image: linear-gradient(rgb(235, 40, 89), rgb(111, 10, 35)); background-repeat: repeat-x; background-color: hsl(345, 84%, 24%); -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .2), 0 1px 2px rgba(0, 0, 0, .05); -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .2), 0 1px 2px rgba(0, 0, 0, .05); -webkit-border-radius: 4px; -moz-border-radius: 4px;
+}
+button:hover {
+	background-position: 0px -15px; transition:background-position 0.1s linear; color: #ffffff; text-decoration: none; -webkit-transition: background-position 0.1s linear; -moz-transition: background-position 0.1s linear; -o-transition: background-position 0.1s linear;
+}
+#availability_and_price .ob a:hover {
+	background-position: 0px -15px; transition:background-position 0.1s linear; color: #ffffff; text-decoration: none; -webkit-transition: background-position 0.1s linear; -moz-transition: background-position 0.1s linear; -o-transition: background-position 0.1s linear;
+}
+.view_details:hover {
+	background-position: 0px -15px; transition:background-position 0.1s linear; color: #ffffff; text-decoration: none; -webkit-transition: background-position 0.1s linear; -moz-transition: background-position 0.1s linear; -o-transition: background-position 0.1s linear;
+}
+button:active {
+	outline: 0px; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.15), 0px 1px 2px rgba(0,0,0,0.05); background-image: none; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .15), 0 1px 2px rgba(0, 0, 0, .05); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .15), 0 1px 2px rgba(0, 0, 0, .05);
+}
+#availability_and_price .ob a:active {
+	outline: 0px; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.15), 0px 1px 2px rgba(0,0,0,0.05); background-image: none; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .15), 0 1px 2px rgba(0, 0, 0, .05); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .15), 0 1px 2px rgba(0, 0, 0, .05);
+}
+.view_details:active {
+	outline: 0px; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.15), 0px 1px 2px rgba(0,0,0,0.05); background-image: none; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .15), 0 1px 2px rgba(0, 0, 0, .05); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .15), 0 1px 2px rgba(0, 0, 0, .05);
+}
+.view_details {
+	border-width: 1px; border-style: solid; border-color: rgb(187, 187, 187) rgb(187, 187, 187) rgb(162, 162, 162); padding: 7px 23px; border-radius: 4px; text-align: center; color: #ffffff; line-height: 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-decoration: none; margin-bottom: 12px; vertical-align: middle; display: inline-block; cursor: pointer; box-shadow: inset 0px 1px 0px rgba(255,255,255,0.2), 0px 1px 2px rgba(0,0,0,0.05); text-shadow: 0px -1px 0px rgba(0,0,0,0.49); background-image: linear-gradient(rgb(235, 40, 89), rgb(111, 10, 35)); background-repeat: repeat-x; background-color: hsl(345, 84%, 24%); -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .2), 0 1px 2px rgba(0, 0, 0, .05); -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .2), 0 1px 2px rgba(0, 0, 0, .05); -webkit-border-radius: 4px; -moz-border-radius: 4px;
+}
+.view_details a {
+	color: #ffffff; text-decoration: none; font-style: normal;
+}
+button.back {
+	border-color: rgb(193, 193, 193) rgb(193, 193, 193) hsl(0, 0%, 71%); color: rgb(51, 51, 51) !important; margin-right: 10px; text-shadow: 0px 1px 1px rgba(255,255,255,0.33); background-image: linear-gradient(rgb(244, 244, 244), rgb(193, 193, 193)); background-repeat: repeat-x; background-color: hsl(0, 0%, 76%) !important; -webkit-font-smoothing: antialiased;
+}
+table {
+	margin: 0px 0px 1.5em; width: 100%;
+}
+table caption {
+	margin: 0px 0px 0.8em;
+}
+table td {
+	padding: 10px 6px; vertical-align: top; border-bottom-color: rgb(240, 240, 240); border-bottom-width: 1px; border-bottom-style: solid;
+}
+table th {
+	padding: 10px 6px; vertical-align: top; border-bottom-color: rgb(240, 240, 240); border-bottom-width: 1px; border-bottom-style: solid;
+}
+table th {
+	background: rgb(240, 240, 240); text-align: left; color: rgb(74, 74, 74);
+}
+.calendar {
+	background: #ffffff; border: 1px solid rgb(182, 5, 67); z-index: 25;
+}
+.calendar table {
+	margin: 0px;
+}
+.calendar td {
+	padding: 0px;
+}
+.calendar th {
+	padding: 0px;
+}
+.calendar thead {
+	background: rgb(182, 5, 67); height: 18px; text-align: center; color: #ffffff; vertical-align: middle;
+}
+.calendar thead td {
+	width: 26px; height: 18px; text-align: center; font-size: 11px; vertical-align: middle;
+}
+.calendar thead .title {
+	background: #ffffff; color: #a93393;
+}
+.calendar .ttip {
+	background: rgb(182, 5, 67); border: 1px solid #ffffff; height: 18px; text-align: center; color: #ffffff; vertical-align: middle;
+}
+.calendar tbody td {
+	width: 26px; height: 18px; text-align: center; font-size: 11px; vertical-align: middle; cursor: pointer;
+}
+.calendar tbody .disabled {
+	color: rgb(183, 183, 183); cursor: default;
+}
+.calendar tbody .selected {
+	background: #a93393; color: #ffffff;
+}
+.calendar .wn {
+	border-right-color: rgb(15, 30, 113); border-right-width: 1px; border-right-style: solid;
+}
+.calendar .daynames {
+	background: #ffffff; color: #a93393;
+}
+.calendar .combo {
+	display: none;
+}
+#global {
+	margin: 0px auto; width: 960px; position: relative;
+}
+#header {
+	height: 42px; padding-top: 15px; margin-bottom: 20px; float: left;
+}
+#header img {
+	max-height: 60px;
+}
+#requestmenus {
+	top: 95px; right: 0px; position:absolute;
+}
+#requestmenu_1 {
+	list-style: none; margin: 0px; padding: 0px;;font-family: Tahoma, Arial, sans-serif;
+}
+#requestmenu_1 li a {
+	background: url("http://static.kigo.net/templates/simple/img/sprites.png") no-repeat 0px -353px; color:#ffffff; line-height: 20px; padding-left: 24px; font-size: 13px;  text-decoration: none; display: inline-block;
+}
+#requestmenu_1 li a.requested-properties-0 {
+	background-position: 0px -376px; color: #ffffff;
+}
+.requested-properties::before {
+	content: " (";
+}
+.requested-properties::after {
+	content: ")";
+}
+#mainmenus {
+	padding-top: 10px; margin-right: 96px; margin-bottom: 8px; clear: both; font-family: Tahoma, Arial, sans-serif;
+}
+#mainmenu_1 {
+	margin: 0px; padding: 0px;
+}
+#mainmenu_1 li {
+	margin-left: 0px; display: inline-block;
+}
+#mainmenu_1 li a {
+	padding: 10px 12px; color: #ffffff; font-size: 16px; text-decoration: none; display: block;
+}
+#mainmenu_1 li:hover a {
+	color: #a93192;
+}
+#mainmenu_1 li.current_page a {
+	color: #a93393; display: block;
+}
+#searchmenus .clear {
+	display: none;
+}
+#searchmenus .search_options_title {
+	display: none;
+}
+.template-page #searchmenus {
+	display: none;
+}
+#search #search_dates legend {
+	display: none;
+}
+.template-page #pageimage {
+	clear: both;
+}
+.template-page #pagedescription {
+	padding: 15px 20px; margin-top: 0px; margin-bottom: 0px; 
+}
+.template-page#page-home #pagedescription {
+	padding: 0px;
+}
+.template-page .block {
+	margin-top: 20px;
+}
+.template-page .cols-2.block .column {
+	width: 430px; margin-right: 14px; float: left;
+}
+.template-page .cols-2.block .even.column {
+	margin-right: 0px;
+}
+.template-page .cols-2.block .no-parag.column {
+	padding: 0px; border: currentColor; width: 472px;
+}
+.template-page .block .column {
+	 background: white;border-width: 1px; border-style: solid; border-color: rgb(240, 240, 240) rgb(240, 240, 240) rgb(214, 214, 214); padding: 20px;
+}
+.template-page .block .column > h3 {
+	margin-bottom: 10px;
+}
+.template-page .block .column .imageblock {
+	margin-bottom: 20px;
+}
+.template-page .block .column p {
+	line-height: 18px; margin-bottom: 20px;
+}
+.template-page .block .property.column {
+	position: relative;
+}
+.template-page .block .property.column::after {
+	display: table; content: "";
+}
+.template-page .block .property.column::after {
+	clear: both;
+}
+.template-page .block .property.column h3 {
+	width: 60%; padding-right: 75px; float: right;
+}
+.template-page .block .property.column .price {
+	padding: 10px; border: 1px solid rgb(240, 240, 240); width: 55px; height: 56px; right: 20px; line-height: 1.3em; position: absolute;
+}
+.template-page .block .property.column .price .amount {
+	line-height: 1.5em; font-size: 18px;
+}
+.template-page .block .property.column .imageblock {
+	float: left;
+}
+.template-page .block .property.column .information {
+	left: 312px; width: 65%; bottom: 20px; position: absolute;
+}
+.template-page .block .property.column .paragraph {
+	width: 55%; padding-right: 120px; float: right;
+}
+.template-page .block .property.column .view_details {
+	width: 140px; right: 20px; bottom: 5px; display: block; position: absolute;
+}
+.template-page .block .property.column .request_list {
+	left: 30px; top: 30px; position: absolute; z-index: 20;
+}
+.template-page .block .property.column .availability_calendar {
+	display: none;
+}
+.template-page .block .property.column .make_request {
+	display: none;
+}
+
+#footer {
+	padding-top: 10px; clear: both; margin-top: 40px;border-top-width: 1px; border-top-style: solid; position:absolute;top:-1000px;
+}
+
+#footerM {
+        clear: both; 
+	padding-top: 10px; 
+	padding-bottom: 30px; 
+        margin-top: 40px; 
+        border-top-color: #f1f1f1; border-top-width: 1px; border-top-style: solid;background:  #B2A69B;
+}
+
+#secondarymenu {
+	margin: 0px; float: left;
+}
+#secondarymenu li {
+	margin-right: 10px; display: inline-block;
+}
+#secondarymenu li a {
+	color: rgb(51, 51, 51); font-size: 14px; text-decoration: none;
+}
+#kigomenu {
+	float: right;position:absolute; top:-500px;
+}
+#kigomenu a {
+	background: url("http://static.kigo.net/templates/simple/img/kigo-logo.png") no-repeat; top: 30px; color:#00ff00; padding-left: 20px; font-size: 12px; text-decoration: none; position: relative;
+}
+#kigomenu a:hover {
+	color: rgb(51, 51, 51);
+}
+#linksmenu {
+	margin:0px auto; width: 960px;
+}
+#linksmenu ul {
+	margin: 0px;
+}
+#linksmenu li {
+	margin-right: 14px; display: inline-block;
+}
+#linksmenu li a {
+	color: #000000; line-height: 16px; font-size: 12px; text-decoration: none;
+}
+#linksmenu li#links_list-1 a {
+	padding-left: 20px;
+}
+#linksmenu li#links_list-2 a {
+	padding-left: 20px;
+}
+#linksmenu #links_list-1 {
+	background: url("http://static.kigo.net/templates/simple/img/icon-fb.png") no-repeat left;
+}
+#linksmenu #links_list-2 {
+	background: url("http://static.kigo.net/templates/simple/img/icon-tw.png") no-repeat left;
+}
+#kigo_messages {
+	list-style: none; margin: 0px;
+}
+#page-home #searchmenus {
+	display: block;
+}
+#page-home div.block {
+	width: 313px; margin-left: 10px; float: left;
+}
+#page-home .block .column {
+	border-width: 1px; border-style: solid; border-color: rgb(240, 240, 240) rgb(240, 240, 240) rgb(214, 214, 214); padding: 2px 2px 0px;
+}
+#page-home .block .column .imageblock {
+	margin-bottom: 20px;
+}
+#page-home .block .column .paragraph {
+	line-height: 18px; margin-bottom: 20px;
+}
+#page-home .block .no-parag.column {
+	padding: 0px; border: currentColor; position: relative;
+}
+#page-home .block .no-parag.column .imageblock {
+	margin: 0px;
+}
+#page-home .cols-2.block {
+	width: 960px; clear: both; margin-left: 0px;
+}
+#page-home .last.block {
+	margin-bottom: 20px;
+}
+#page-home .last.block::after {
+	clear: both; display: table; content: "";
+}
+#page-home .cols-2.block .column {
+	background: #ffffff; border-width: 1px; border-style: solid; border-color: rgb(240, 240, 240) rgb(240, 240, 240) rgb(214, 214, 214); padding: 20px; width: 430px; float: left;
+}
+#page-home .cols-2.block .no-parag.column {
+	padding: 0px; border: currentColor; width: 470px; position: relative;
+}
+#page-home .cols-2.block .e-1.column .paragraph {
+	line-height: 18px;
+}
+#page-home .cols-2.block .e-2.column {
+	margin-right: 0px;
+}
+#page-home .cols-2.block .column .imageblock {
+	
+}
+#page-home .cols-2.block h3 {
+	
+}
+#page-home .block .property.column {
+	padding: 0px 0px 43px; border: currentColor; position: relative;
+}
+#page-home .e-1.block {
+	clear: both; margin-left: 0px;
+}
+#page-home .e-4.block {
+	clear: both; margin-left: 0px;
+}
+#page-home .e-7.block {
+	clear: both; margin-left: 0px;
+}
+#page-home .e-10.block {
+	clear: both; margin-left: 0px;
+}
+#page-home .e-13.block {
+	clear: both; margin-left: 0px;
+}
+#page-home .block#pagedescription {
+	width: auto; color:#f2f2f2;
+}
+#page-home .block .property h3 {
+	background: #e4e0dd; padding: 8px 20px; border: 1px solid rgb(218, 218, 218); top: 193px; width: 271px; font-size: 16px; font-weight: bold; float: none; position: absolute;
+}
+#page-home .block .property h3 a {
+	color: rgb(51, 51, 51); overflow: hidden; text-decoration: none; display: block; white-space: nowrap;
+}
+#page-home .block .property .imageblock {
+	border: 4px solid #ffffff; width: 305px !important; height: 185px !important; position: absolute;
+}
+#page-home .block .property .request_list {
+	left: 17px; top: 16px; position: absolute; z-index: 20;
+}
+#page-home .block .property .price {
+	background: #e4e0dd; border-width: 0px 1px 1px; border-style: none solid solid; border-color: currentColor rgb(218, 218, 218) rgb(218, 218, 218); padding: 0px 20px 8px; left: 0px; top: 222px; width: 271px; height: 27px; position: absolute;
+}
+#page-home .block .property .price .altprice-amount {
+	background: url("http://static.kigo.net/templates/simple/img/sprites.png") no-repeat 0px -410px; line-height: 16px; padding-left: 22px;
+}
+#page-home .block .property .imageblock img {
+	width: 313px !important; height: 253px !important;
+}
+#page-home .block .property .information {
+	display: none;
+}
+#page-home .block .property .paragraph {
+	display: none;
+}
+#page-home .block .property .availability_calendar {
+	display: none;
+}
+#page-home .block .property .make_request {
+	display: none;
+}
+#page-home #pageimage {
+	border: 4px solid #ffffff; height: 400px; overflow: hidden; clear: both;
+}
+#page-home #searchmenus {
+    height: 130px;
+    margin-bottom: 160px;
+    margin-left: 30px;
+    margin-top: -375px;
+    position: relative;
+    width: 310px;
+}
+#search_guests fieldset.e-2 {
+	display: none;
+}
+#search_guests fieldset.e-3 {
+	display: none;
+}
+#page-home #search_dates_remove {
+	display: none;
+}
+.none#search_dates_remove {
+	display: none;
+}
+#search_dates_remove {
+	width: 1px; float: left; position: relative;
+}
+#search_dates_remove a {
+	background: url("http://static.kigo.net/templates/simple/img/icon-reset.png") no-repeat left; left: -7px; top: 12px; width: 15px; height: 15px; text-indent: -9999px; display: block; position: absolute;
+}
+#search_dates_stay {
+	display: none;
+}
+#search_dates legend {
+	color: #ffffff; line-height: 12px; padding-bottom: 0px; font-size: 12px;
+}
+#page-home #search_destination button {
+	top: 147px; right: 0px; position: absolute; z-index: 15;
+}
+#page-home #searchmenu_1 {
+	background: rgba(0, 0, 0, 0.7); padding: 5px 10px; position: relative; z-index: 20;
+}
+#searchmenu_1 input[type='text'] {
+	padding: 9px 12px; border-radius: 3px; border: 1px solid rgba(0, 0, 0, 1); color: rgb(114, 114, 114); box-shadow: inset 0px 2px 1px rgba(64,64,64,0.2); background-color: #ffffff; -moz-box-shadow: inset 0px 2px 1px rgba(64, 64, 64, 0.2); -webkit-box-shadow: inset 0px 2px 1px rgba(64, 64, 64, 0.2); -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+#page-home #search_destination {
+	width: 289px; position: relative;
+}
+#search_destination ul {
+	background: #ffffff; list-style: none; padding: 0px; border: 1px solid rgb(240, 240, 240); left: 1px; top: 36px; position: absolute; z-index: 1;
+}
+#search_destination li {
+	background: rgb(178, 166, 155); padding: 6px 12px;
+}
+#searchmenus #search_destination fieldset ul li span.term {
+	font-weight: bold;
+}
+#search_destination li.no_options {
+	color: rgb(223, 57, 70);
+}
+#search_destination li:hover {
+	background: rgb(244, 244, 244);
+}
+#search_destination .e-1 input {
+	width: 265px;
+}
+#search_destination h3 {
+	display: none;
+}
+#searchmenus #search_destination fieldset .destination_error {
+	padding: 5px; top: 63px; right: 5px; color: rgb(255, 0, 0); font-size: 13px; position: absolute;
+}
+#page-home #searchmenus #search_destination fieldset .destination_error {
+	left: -4px; top: 35px; font-size: 12px;
+}
+#search_dates h3 {
+	display: none;
+}
+.search_dates_stay {
+	display: none;
+}
+#page-home #search_guests_name {
+	color: #ffffff; font-size: 12px; font-weight: normal;
+}
+#page-home #search_options {
+	display: none;
+}
+.search_title {
+	padding: 0px; color: #ffffff; font-size: 18px; font-weight: normal; margin-bottom: 8px; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+#page-home #search_dates {
+	width: 300px;
+}
+#search_dates fieldset {
+	padding: 0px; margin-right: 8px; margin-bottom: 10px; float: left;
+}
+#search_destination fieldset {
+	margin-bottom: 10px;
+}
+#search_dates input {
+	background: url("http://static.kigo.net/templates/simple/img/input-calendar.png") no-repeat right; width: 115px; font-size: 11px;
+}
+#search_dates fieldset.e-2 {
+	margin-right: 0px;
+}
+#page-home #search_guests h3 {
+	margin-bottom: 0px;
+}
+#page-home #search_guests fieldset.e-1 {
+	padding-bottom: 10px; margin-left: 0px;
+}
+#search_guests .e-1 legend {
+	width: 41px; line-height: 17px; overflow: hidden; float: left;
+}
+#page-home #search_guests .e-1 legend {
+	display: none;
+}
+#search_guests fieldset.e-1 span {
+	white-space: nowrap;
+}
+#search_guests fieldset legend {
+	display: none;
+}
+#search_guests .e-1 select {
+	border: 1px solid rgba(0, 0, 0, 1); width: 140px;
+}
+#page-home #right-column {
+	display: none;
+}
+#search #pageimage {
+	clear: both;
+}
+.template-page-searchres #pageimage {
+	clear: both;
+}
+.template-page-searchres #searchmenus {
+	display: block;
+}
+#search #search_destination ul {
+	left: 107px; top: 47px;
+}
+.template-page-searchres #search_destination ul {
+	left: 107px; top: 47px;
+}
+#search_no_result {
+	border-width: medium 1px 1px; border-style: none solid solid; border-color: currentColor rgb(241, 241, 241) rgb(241, 241, 241); padding: 12px 10px; width: 938px; margin-top: 0px; background-color: #ffffff;
+}
+#search .search_title {
+	line-height: 1.6em; margin-right: 10px; margin-bottom: 0px; float: left;
+}
+.template-page-searchres .search_title {
+	line-height: 1.6em; margin-right: 10px; margin-bottom: 0px; float: left;
+}
+.template-page-searchres #pagetitle {
+	padding: 0px; left: 13px; top: 170px; width: 690px; font-size: 18px; font-weight: bold; position: absolute;
+}
+#search #pagetitle {
+	width: 690px; padding-top: 12px; font-size: 18px; font-weight: bold; margin-left: 10px;
+}
+#search #pagetitle #search_result_count {
+	color: rgb(158, 158, 158); font-weight: normal;
+}
+#search #searchmenu_1 {
+	background: rgba(0, 0, 0, 0.7); height: 48px; padding-top: 10px; padding-left: 20px; position: relative;
+}
+.template-page-searchres #searchmenu_1 {
+	background: rgba(0, 0, 0, 0.7); height: 48px; padding-top: 10px; padding-left: 20px; position: relative;
+}
+#search #search_destination {
+	width: 290px; margin-right: 10px; float: left;
+}
+.template-page-searchres #search_destination {
+	width: 290px; margin-right: 10px; float: left;
+}
+#search #search_destination button {
+	right: 10px; position: absolute;
+}
+.template-page-searchres #search_destination button {
+	right: 10px; position: absolute;
+}
+#search #search_guests fieldset.e-1 {
+	padding: 0px; position: relative;
+}
+.template-page-searchres #search_guests fieldset.e-1 {
+	padding: 0px; position: relative;
+}
+#search #search_destination fieldset {
+	position: static;
+}
+.template-page-searchres #search_destination fieldset {
+	position: static;
+}
+#search_destination select {
+	padding: 8px 12px; border-radius: 3px; border: 1px solid rgba(0, 0, 0, 1); width: 290px; height: 35px; color: rgb(114, 114, 114); margin-top: 2px; margin-bottom: 10px; white-space: nowrap; box-shadow: inset 0px 2px 1px rgba(64,64,64,0.2); background-color: #ffffff; -moz-box-shadow: inset 0px 2px 1px rgba(64, 64, 64, 0.2); -webkit-box-shadow: inset 0px 2px 1px rgba(64, 64, 64, 0.2); -webkit-border-radius: 3px; -moz-border-radius: 3px; -webkit-appearance: none;
+}
+@media not all
+{
+#search_destination select:not([multiple]) {
+	background: url("http://static.kigo.net/templates/simple/img/select-icons.png") no-repeat 267px #ffffff; padding-right: 20px;
+}
+#search_destination select:not([multiple]):hover {
+	
+}
+}
+.template-page-searchres #search_guests h3 {
+	padding: 11px 0px 0px 6px; left: 5px; color: rgb(152, 152, 152); font-size: 12px; font-weight: normal; margin-bottom: 0px; display: block; position: absolute; z-index: 20;
+}
+#search #search_guests h3 {
+	padding: 11px 0px 0px 6px; left: 5px; color: rgb(152, 152, 152); font-size: 12px; font-weight: normal; margin-bottom: 0px; display: block; position: absolute; z-index: 20;
+}
+#search #search_guests {
+	margin-left: 8px; float: left; position: relative;
+}
+.template-page-searchres #search_guests {
+	margin-left: 8px; float: left; position: relative;
+}
+#search #search_guests fieldset.e-1 {
+	padding: 0px; position: relative;
+}
+.template-page-searchres #search_guests fieldset.e-1 {
+	padding: 0px; position: relative;
+}
+#search #search_guests fieldset.e-1 legend {
+	left: 10px; top: 11px; color: rgb(114, 114, 114); line-height: 17px; padding-bottom: 0px; font-size: 12px; position: absolute;
+}
+.template-page-searchres #search_guests fieldset.e-1 legend {
+	left: 10px; top: 11px; color: rgb(114, 114, 114); line-height: 17px; padding-bottom: 0px; font-size: 12px; position: absolute;
+}
+#search #search_guests fieldset.e-1 select {
+	padding: 6px 12px 6px 85px; height: 34px; line-height: 16px; margin-top: 1px;
+}
+.template-page-searchres #search_guests fieldset.e-1 select {
+	padding: 6px 12px 6px 85px; height: 34px; line-height: 16px; margin-top: 1px;
+}
+@media not all
+{
+#search #search_guests fieldset.e-1 select:not([multiple]) {
+	background-position: right; background-image: url("http://static.kigo.net/templates/simple/img/select-icons.png"); background-repeat: no-repeat; background-color: #ffffff;
+}
+.template-page-searchres #search_guests fieldset.e-1 select:not([multiple]) {
+	background-position: right; background-image: url("http://static.kigo.net/templates/simple/img/select-icons.png"); background-repeat: no-repeat; background-color: #ffffff;
+}
+}
+.template-page-searchres #search_dates legend {
+	display: none;
+}
+#search_options {
+	width: 240px; clear: both; margin-top: 43px; margin-left: -10px; float: left; background-color: rgb(240, 240, 240);
+}
+#list_view .alert {
+	display: none;
+}
+#search_options h3 {
+	padding: 12px 13px; color: rgb(51, 51, 51); font-size: 16px; font-weight: bold; background-color: rgb(214, 214, 214);
+}
+#search_options .search_options_block ul {
+	list-style: none; margin: 0px; padding-top: 16px; padding-bottom: 16px; padding-left: 0px;
+}
+#search_options .search_options_block li a {
+	background: url("http://static.kigo.net/templates/simple/img/sprites.png") no-repeat 0px -496px; margin: 0px 12px 10px; color: rgb(158, 158, 158); line-height: 18px; padding-left: 28px; font-size: 12px; text-decoration: none; display: block;
+}
+#search_options .search_options_block li.selected a {
+	background-position: 0px -514px; color: rgb(51, 51, 51);
+}
+#search_options .search_options_block li a:hover {
+	background-position: 0px -514px; color: rgb(51, 51, 51);
+}
+#search_options .search_options_block li a span {
+	display: none;
+}
+#search #content {
+	width: 100px; position: absolute;
+}
+#search #functions {
+	background: #ffffff; padding-bottom: 20px; border-right-color: rgb(241, 241, 241); border-bottom-color: rgb(241, 241, 241); border-left-color: rgb(241, 241, 241); border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;
+}
+#search #functions::after {
+	display: table; content: "";
+}
+#search #functions::after {
+	clear: both;
+}
+#search #functions #functions_blocks {
+	width: 700px; margin-top: 41px; float: right;
+}
+.template-page-searchres #content {
+	padding-top: 30px;
+}
+.template-page-searchres #content::after {
+	display: table; content: "";
+}
+.template-page-searchres #content::after {
+	clear: both;
+}
+.template-page-searchres #content .block {
+	padding-bottom: 25px; margin-top: 20px; margin-right: 9px; border-bottom-color: rgb(231, 231, 231); border-bottom-width: 1px; border-bottom-style: solid; float: right; position: relative;
+}
+#search #functions #functions_blocks .block {
+	padding-bottom: 25px; margin-top: 20px; margin-right: 9px; border-bottom-color: rgb(231, 231, 231); border-bottom-width: 1px; border-bottom-style: solid; float: right; position: relative;
+}
+#search #functions #functions_blocks .first.block {
+	margin-top: 0px;
+}
+#search #functions #functions_blocks #resultblock-1 {
+	margin-top: 0px;
+}
+.template-page-searchres #content .block .notice {
+	display: none;
+}
+#search #functions #functions_blocks .block .notice {
+	display: none;
+}
+.template-page-searchres #content .last.block {
+	padding-bottom: 0px; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+#search #functions #functions_blocks .last.block {
+	padding-bottom: 0px; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+.template-page-searchres #content .block h3 {
+	padding: 0px; width: 320px; margin-right: 80px; margin-bottom: 10px; float: right;
+}
+#search #functions #functions_blocks .block h3 {
+	padding: 0px; width: 320px; margin-right: 80px; margin-bottom: 10px; float: right;
+}
+.template-page-searchres #content .block h3 a {
+	color: rgb(51, 51, 51); font-size: 18px; text-decoration: none;
+}
+#search #functions #functions_blocks .block h3 a {
+	color: rgb(51, 51, 51); font-size: 18px; text-decoration: none;
+}
+.template-page-searchres #content .block .price {
+	padding: 10px; border: 1px solid rgb(240, 240, 240); top: 0px; width: 53px; height: 56px; right: 0px; line-height: 1.3em; position: absolute;
+}
+#search #functions #functions_blocks .block .price {
+	padding: 10px; border: 1px solid rgb(240, 240, 240); top: 0px; width: 53px; height: 56px; right: 0px; line-height: 1.3em; position: absolute;
+}
+#search #functions #functions_blocks .block .price .nightly-rent-and-discounts-and-fees {
+	margin: 0px; line-height: 1.2em; font-size: 18px; font-weight: normal;
+}
+#search #functions #functions_blocks .block .discount.price span.nightly-rent-and-discounts-and-fees {
+	background: url("http://static.kigo.net/templates/simple/img/icon-discount.png") no-repeat right 3px; color: red; padding-right: 20px; margin-right: -20px;
+}
+#search #functions #functions_blocks .block .price .rent-and-discounts {
+	display: none;
+}
+#search #functions #functions_blocks .block .price .rent-and-discounts-and-fees {
+	display: none;
+}
+#search #functions #functions_blocks .block .price .nightly-rent {
+	display: none;
+}
+#search #functions #functions_blocks .block .price span.nightly-rent-and-discounts-and-fees .decimal-separator {
+	display: none;
+}
+#search #functions #functions_blocks .block .price span.nightly-rent-and-discounts-and-fees .decimal-part {
+	display: none;
+}
+#search #functions #functions_blocks .block .price table {
+	display: none;
+}
+#search #functions #functions_blocks .block .x-weekly > div {
+	background: #ffffff; padding: 10px; border: 1px solid rgb(240, 240, 240); top: 65px; width: 140px; right: 0px; display: none; position: absolute;
+}
+#search #functions #functions_blocks .block .x-weekly:hover > div {
+	display: block;
+}
+.template-page-searchres #content .block .price .amount {
+	line-height: 1.5em; font-size: 18px; display: block;
+}
+#search #functions #functions_blocks .block .price .amount {
+	line-height: 1.5em; font-size: 18px; display: block;
+}
+.template-page-searchres #content .block .price .amount .decimal-separator {
+	display: none;
+}
+#search #functions #functions_blocks .block .price .amount .decimal-separator {
+	display: none;
+}
+.template-page-searchres #content .block .price .amount .decimal-part {
+	display: none;
+}
+#search #functions #functions_blocks .block .price .amount .decimal-part {
+	display: none;
+}
+.template-page .block .property.column .price .amount .decimal-separator {
+	display: none;
+}
+.template-page .block .property.column .price .amount .decimal-part {
+	display: none;
+}
+.template-page-searchres #content .block .column {
+	padding: 0px; border: currentColor;
+}
+.template-page-searchres #content .block .imageblock {
+	width: 260px !important; height: 210px !important; float: left;
+}
+#search #functions #functions_blocks .block .imageblock {
+	width: 260px !important; height: 210px !important; float: left;
+}
+.template-page-searchres #content .block .information {
+	left: 290px; width: 350px; bottom: 30px; position: absolute;
+}
+#search #functions #functions_blocks .block .information {
+	left: 290px; width: 350px; bottom: 30px; position: absolute;
+}
+#search #functions #functions_blocks .block .ob {
+	top: 150px; right: 0px; font-size: 13px; position: absolute;
+}
+#search #functions #functions_blocks .block .ob a::after {
+	content: " ?";
+}
+.information dl {
+	width: 220px;
+}
+.information dt {
+	width: 100px; color: rgb(152, 152, 152); float: left;
+}
+.information dd {
+	width: 120px; font-weight: bold; float: left;
+}
+.template-page-searchres #content .block .paragraph {
+	padding: 0px; width: 320px; height: 90px; color: rgb(152, 152, 152); line-height: 18px; overflow: hidden; margin-right: 80px; float: right;
+}
+#search #functions #functions_blocks .block .paragraph {
+	padding: 0px; width: 320px; height: 90px; color: rgb(152, 152, 152); line-height: 18px; overflow: hidden; margin-right: 80px; float: right;
+}
+.template-page-searchres #content .block .make_request {
+	display: none;
+}
+.template-page-searchres #content .block .availability_calendar {
+	display: none;
+}
+.view_details span::after {
+	content: " ";
+}
+.template-page-searchres #content .block .view_details {
+	right: 0px; bottom: 20px; position: absolute;
+}
+#search #functions #functions_blocks .block .view_details {
+	right: 0px; bottom: 20px; position: absolute;
+}
+#search #functions #functions_blocks .block .availability_calendar {
+	display: none;
+}
+#search #functions #functions_blocks .block .make_request {
+	display: none;
+}
+.template-page-searchres #content .block .request_list {
+	left: 15px; top: 15px; position: absolute; z-index: 20;
+}
+#search #functions #functions_blocks .block .request_list {
+	left: 15px; top: 15px; position: absolute; z-index: 20;
+}
+.template-page-searchres #content {
+	background: #ffffff; padding-bottom: 20px; padding-left: 260px; border-right-color: rgb(241, 241, 241); border-bottom-color: rgb(241, 241, 241); border-left-color: rgb(241, 241, 241); border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;
+}
+.template-property #pageimage {
+	top: 210px; width: 630px; padding-left: 0px; border-left-color: rgb(240, 240, 240); border-left-width: 1px; border-left-style: solid; position: absolute;
+}
+.template-property .block {
+	background: #ffffff; width: 648px; border-right-color: rgb(240, 240, 240); border-left-color: rgb(240, 240, 240); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid; float: left;
+}
+.template-property .first.block {
+	height: 480px;
+}
+.template-property .last.block {
+	padding-bottom: 20px; border-bottom-color: rgb(240, 240, 240); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.template-property .block .column {
+	padding: 0px 20px;
+}
+.template-property .block iframe {
+	width: 100%;
+}
+.template-property .block h2 {
+	margin: 30px 0px 15px; font-size: 20px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.template-property .block p {
+	line-height: 18px;
+}
+.template-property #pagetitle {
+	background: #ffffff; padding: 14px 19px 10px 20px; width: 609px; height: 43px; line-height: 0.9em; font-size: 22px; font-weight: bold; margin-top: 40px; border-right-color: rgb(240, 240, 240); border-left-color: rgb(240, 240, 240); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+.template-property #searchmenus {
+	background: rgb(240, 240, 240); top: 98px; width: 650px; float: left; position: absolute;
+}
+.template-property #searchmenus a {
+	padding: 15px 20px; color: #a93393; text-decoration: none; display: inline-block;
+}
+.template-property #searchmenus a::before {
+	content: "? ";
+}
+.template-property .information {
+	top: 710px; width: 300px; right: 0px; border-right-color: rgb(240, 240, 240); border-bottom-color: rgb(214, 214, 214); border-left-color: rgb(240, 240, 240); border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; position: absolute;
+}
+.template-property .information h3 {
+	background: rgb(240, 240, 240); padding: 10px 20px; color: rgb(74, 74, 74); font-size: 16px; margin-bottom: 0px;
+}
+.template-property dl {
+	width: 300px; overflow: hidden; font-size: 1em;
+}
+.template-property dl dt {
+	width: 133px; padding-right: 133px; clear: left; font-weight: bold; margin-right: -50px; float: left;
+}
+.template-property dl dt {
+	padding: 8px 0px 8px 20px; background-color: rgb(240, 240, 240);
+}
+.template-property dl dd {
+	padding: 8px 0px 8px 20px; background-color: rgb(240, 240, 240);
+}
+.template-property dl dt.odd {
+	background-color: #ffffff;
+}
+.template-property dl dd.odd {
+	background-color: #ffffff;
+}
+.template-property dl dd {
+	width: 167px; color: rgb(152, 152, 152); padding-left: 140px; margin-left: -110px; float: left;
+}
+.template-property dl span {
+	position: relative; z-index: 10;
+}
+.template-property dl ul {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.list li {
+	background: url("http://static.kigo.net/templates/simple/img/list-bullet.png") no-repeat 3px; margin: 0px 5px 14px; padding: 0px 5px 0px 27px; width: 130px; height: 22px; line-height: 24px; overflow: hidden; float: left;
+}
+.template-property #functions_blocks {
+	position: relative;
+}
+#right-column {
+	width: 290px; float: right;
+}
+body.template-property div#global div#functions #functions_blocks #availability_and_price div.availability div {
+	color: rgb(74, 74, 74);
+}
+#availability_and_price .x-weekly.price > span {
+	background: url("http://static.kigo.net/templates/simple/img/icon-info.png") no-repeat 95% rgb(74, 74, 74); cursor: help;
+}
+#availability_and_price .x-weekly.price > div {
+	background: rgb(229, 229, 229); padding: 5px 10px; width: 280px; color: rgb(51, 51, 51); line-height: 1.4em; position: absolute; z-index: 20; cursor: help;
+}
+#availability_and_price .x-weekly.price:hover > div {
+	display: block;
+}
+.template-property #availability_and_price .price {
+	padding: 10px 15px; display: block;
+}
+.template-property #availability_and_price .price h4 {
+	margin-bottom: 0px;
+}
+.template-property #availability_and_price .price h4 .amount {
+	font-size: 20px;
+}
+.template-property #availability_and_price .nightly-rent-and-discounts-and-fees {
+	background: rgb(74, 74, 74); margin: 0px; padding: 9px 20px; color: white; line-height: 20px; font-size: 16px; font-weight: bold;
+}
+.template-property #availability_and_price .nightly-rent-and-discounts-and-fees span.integer-part {
+	font-size: 20px;
+}
+.template-property #availability_and_price .nightly-rent-and-discounts-and-fees span.decimal-part {
+	font-size: 14px;
+}
+.template-property #availability_and_price .nodates.price h4 span.altprice-amount {
+	background: rgb(74, 74, 74); margin: 0px; padding: 12px 20px; color: white; font-size: 16px; font-weight: bold; display: block;
+}
+.template-property #availability_and_price h4.nightly-rent-and-discounts-and-fees {
+	padding: 12px 20px; line-height: 1em; float: left;
+}
+#availability_and_price {
+	background: #ffffff; width: 300px; height: 375px; border-right-color: rgb(240, 240, 240); border-bottom-color: rgb(214, 214, 214); border-left-color: rgb(240, 240, 240); border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; float: right; display: block !important;
+}
+#availability_and_price fieldset {
+	padding: 0px;
+}
+#availability_and_price legend {
+	padding: 0px; line-height: 1em;
+}
+.template-property #availability_and_price .calcprice > div .ob-amount td {
+	line-height: 1.6em; font-size: 0.8em;
+}
+.template-property #availability_and_price .calcprice > div .ob-amount th {
+	line-height: 1.6em; font-size: 0.8em;
+}
+.template-property #availability_and_price .calcprice > div .fee {
+	display: none;
+}
+.template-property #availability_and_price .calcprice > div .total-fees {
+	display: none;
+}
+.template-property #availability_and_price .calcprice > div .total-discounts {
+	display: none;
+}
+.template-property #availability_and_price .calcprice > div .discount {
+	display: none;
+}
+.template-property #availability_and_price .calcprice > div .rent {
+	display: none;
+}
+.template-property #availability_and_price .nightly-rent {
+	display: none;
+}
+.template-property #availability_and_price .rent-and-discounts {
+	display: none;
+}
+.template-property #availability_and_price .rent-and-discounts-and-fees {
+	display: none;
+}
+.template-property #availability_and_price .deposit {
+	display: none;
+}
+.template-property #availability_and_price .calcprice > div tr th {
+	font-size: 16px;
+}
+.template-property #availability_and_price .calcprice > div tr td {
+	font-size: 16px;
+}
+.template-property #availability_and_price .calcprice > div tr th {
+	width: 80px; text-align: right; font-weight: bold;
+}
+.template-property #availability_and_price .calcprice > div tr td {
+	text-align: left; padding-left: 10px;
+}
+.template-property #availability_and_price .ob a {
+	margin: 10px 20px 0px; padding: 7px 23px; font-size: 18px; display: block;
+}
+.template-property #content {
+	width: 650px; clear: both; float: left;
+}
+.template-property #functions_menu {
+	width: 289px; float: right;
+}
+.template-property #functions_menu ul {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.template-property #request_list_menu {
+	left: 680px; top: 570px; position: absolute; z-index: 20;
+}
+.template-property #request_list_menu a {
+	background: url("http://static.kigo.net/templates/simple/img/sprites.png") no-repeat 0px -378px; width: 150px; height: 17px; color: rgb(74, 74, 74); line-height: 17px; padding-left: 26px; font-size: 14px; text-decoration: none; display: block;
+}
+.template-property #request_list_menu a.in_list {
+	background-position: 0px -355px;
+}
+.template-property #make_request_menu {
+	top: 520px; width: 263px; right: 18px; position: absolute;
+}
+.template-property #make_request_menu a {
+	background: #a93393; padding: 2px 0px; border-radius: 3px; border: 1px solid rgb(24, 110, 194); height: 29px; text-align: center; color: #ffffff; line-height: 29px; font-size: 18px; text-decoration: none; display: block; box-shadow: inset 0px 1px 2px rgba(255,255,255,0.38); -moz-box-shadow: inset 0 1px 2px rgba(255, 255, 255, .38); -webkit-box-shadow: inset 0 1px 2px rgba(255, 255, 255, .38); -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+.template-property #make_request_menu a:active {
+	border: 1px solid rgb(24, 110, 194); box-shadow: inset 0px 2px 3px rgba(0,0,0,0.16); background-color: rgb(30, 111, 191); -moz-box-shadow: inset 0 2px 3px rgba(0, 0, 0, .16); -webkit-box-shadow: inset 0 2px 3px rgba(0, 0, 0, .16);
+}
+#availability_and_price .price > span {
+	background: rgb(74, 74, 74); padding: 10px 20px; color: #ffffff; font-size: 16px; display: block;
+}
+#availability_and_price .price > div {
+	display: none;
+}
+#availability_and_price .dates {
+	padding: 20px 15px 0px;
+}
+#availability_and_price .dates fieldset {
+	float: left;
+}
+#availability_and_price .dates fieldset.e-1 {
+	margin-right: 10px;
+}
+#availability_and_price .dates .stay {
+	height: 27px; clear: both;
+}
+#availability_and_price .dates legend {
+	margin-bottom: 4px; display: block;
+}
+#availability_and_price .dates input {
+	background: url("http://static.kigo.net/templates/simple/img/input-calendar.png") no-repeat right #ffffff; padding: 7px 6px; border: 1px solid rgb(226, 226, 226); width: 115px; font-size: 10px; margin-bottom: 10px;
+}
+#availability_and_price .guests {
+	padding: 0px 20px 5px;
+}
+#availability_and_price .guests h3 {
+	font-size: 14px; font-weight: normal; margin-bottom: 4px;
+}
+#availability_and_price .guests legend {
+	display: none;
+}
+#availability_and_price .guests .e-1 select {
+	width: 120px;
+}
+#availability_and_price .availability {
+	margin: 10px 0px; padding: 4px 25px; text-align: center; line-height: 22px; font-weight: bold; position: relative;
+}
+#availability_and_price .available.availability {
+	background: rgb(0, 166, 81); color: #ffffff; margin-top: 0px;
+}
+#availability_and_price .notavailable.availability {
+	background: rgb(237, 28, 36); color: #ffffff; margin-top: 0px; cursor: help;
+}
+#availability_and_price .available-x-guests.availability {
+	background: rgb(237, 28, 36); color: #ffffff; margin-top: 0px; cursor: help;
+}
+#availability_and_price .available-x-stay.availability {
+	background: rgb(237, 28, 36); color: #ffffff; margin-top: 0px; cursor: help;
+}
+#availability_and_price .available-x-guest-stay {
+	background: rgb(237, 28, 36); color: #ffffff; margin-top: 0px; cursor: help;
+}
+#availability_and_price .available-x-guests.availability {
+	background: url("http://static.kigo.net/templates/simple/img/icon-info.png") no-repeat 266px rgb(237, 28, 36);
+}
+#availability_and_price .available-x-stay.availability {
+	background: url("http://static.kigo.net/templates/simple/img/icon-info.png") no-repeat 266px rgb(237, 28, 36);
+}
+#availability_and_price .available-x-guest-stay {
+	background: url("http://static.kigo.net/templates/simple/img/icon-info.png") no-repeat 266px rgb(237, 28, 36);
+}
+#availability_and_price .available-x-guest-stay {
+	letter-spacing: -1px; font-size: 10px;
+}
+#availability_and_price .none.availability {
+	padding: 0px;
+}
+#availability_and_price .available-x-guests > div {
+	background: rgb(242, 242, 242); padding: 10px; border: 1px solid rgb(240, 240, 240); left: 0px; top: 30px; width: 279px; color: rgb(74, 74, 74); line-height: 1em; display: none; position: absolute; z-index: 20;
+}
+#availability_and_price .available-x-stay > div {
+	background: rgb(242, 242, 242); padding: 10px; border: 1px solid rgb(240, 240, 240); left: 0px; top: 30px; width: 279px; color: rgb(74, 74, 74); line-height: 1em; display: none; position: absolute; z-index: 20;
+}
+#availability_and_price .available-x-guest-stay > div {
+	background: rgb(242, 242, 242); padding: 10px; border: 1px solid rgb(240, 240, 240); left: 0px; top: 30px; width: 279px; color: rgb(74, 74, 74); line-height: 1em; display: none; position: absolute; z-index: 20;
+}
+#availability_and_price .available-x-guests:hover > div {
+	display: block;
+}
+#availability_and_price .available-x-stay:hover > div {
+	display: block;
+}
+#availability_and_price .available-x-guest-stay:hover > div {
+	display: block;
+}
+#availability_and_price .dates h3 {
+	display: none;
+}
+#availability_and_price .guests fieldset.e-2 {
+	display: none;
+}
+#availability_and_price .guests fieldset.e-3 {
+	display: none;
+}
+.template-property #availability_calendar_menu {
+	display: none;
+}
+#availability_and_price .price .prefix {
+	text-transform: capitalize;
+}
+#availability_and_price .price .amount {
+	font-size: 20px; font-weight: bold;
+}
+#availability_and_price .close {
+	display: none;
+}
+#page-request #pageimage {
+	clear: both;
+}
+#page-request #pagedescription {
+	padding: 6px 20px;
+}
+#page-request #functions {
+	margin-top: 20px;
+}
+#page-request #functions::after {
+	display: table; content: "";
+}
+#page-request #functions::after {
+	clear: both;
+}
+#page-request #request_form {
+	position: relative;
+}
+#page-request #request_form #fieldset-dates {
+	background: #ffffff; width: 289px; border-bottom-color: rgb(214, 214, 214); border-bottom-width: 1px; border-bottom-style: solid; float: right; display: block;
+}
+#page-request #request_form #fieldset-dates legend {
+	background: rgb(240, 240, 240); padding: 12px 20px; border: 1px solid rgb(240, 240, 240); width: 250px; color: rgb(74, 74, 74); font-size: 16px; display: block;
+}
+#page-request #request_form #fieldset-dates p {
+	margin: 0px; padding: 8px 20px 0px;
+}
+#page-request #request_form #fieldset-dates #request_dates_stay {
+	margin: 0px; padding: 8px 20px 0px;
+}
+#page-request #request_form #fieldset-dates #request_dates_stay {
+	height: 40px; margin-top: -40px; margin-left: 160px;
+}
+#page-request #request_form #fieldset-dates label {
+	display: block;
+}
+#page-request #request_form #fieldset-dates input[type='text'] {
+	background: url("http://static.kigo.net/templates/simple/img/input-calendar.png") no-repeat right #ffffff; border: 1px solid rgb(226, 226, 226); width: 115px; color: rgb(114, 114, 114); font-size: 11px;
+}
+#fieldset-guests select {
+	padding: 5px 4px; width: 50px;
+}
+.requested_properties .choice select {
+	padding: 5px 4px; width: 50px;
+}
+#page-request #request_form #fieldset-guests {
+	background: #ffffff; top: 270px; width: 289px; right: 0px; border-bottom-color: rgb(214, 214, 214); border-bottom-width: 1px; border-bottom-style: solid; position: absolute;
+}
+#page-request #request_form #fieldset-guests p {
+	margin: 0px; padding: 8px 20px 0px;
+}
+#page-request #request_form #fieldset-guests legend {
+	background: rgb(240, 240, 240); padding: 12px 20px; border: 1px solid rgb(240, 240, 240); width: 250px; color: rgb(74, 74, 74); font-size: 16px; display: block;
+}
+#page-request #request_form #fieldset-guests label {
+	width: 120px; display: inline-block;
+}
+#page-request #request_form #fieldset-requested {
+	background: #ffffff; width: 648px; margin-bottom: 20px; border-right-color: rgb(240, 240, 240); border-left-color: rgb(240, 240, 240); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+#page-request #request_form #fieldset-requested legend {
+	background: rgb(74, 74, 74); padding: 12px 20px; border: 1px solid rgb(74, 74, 74); width: 606px; color: rgb(178, 166, 155); font-size: 16px; display: block;
+}
+#page-request #request_form #fieldset-requested .requested_properties {
+	padding-top: 10px;
+}
+#page-request #request_form #fieldset-requested table {
+	margin: 0px auto; width: 96%;
+}
+#page-request #request_form #fieldset-requested table > thead tr {
+	background: rgb(240, 240, 240); height: 20px; vertical-align: middle;
+}
+#page-request #request_form #fieldset-requested table > thead tr td {
+	padding: 6px 0px; height: 20px; text-align: center; font-weight: bold; vertical-align: middle;
+}
+#page-request #request_form #fieldset-requested table > tbody tr {
+	border-bottom-color: rgb(240, 240, 240); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#page-request #request_form #fieldset-requested table tbody td {
+	text-align: center; padding-top: 14px; padding-bottom: 10px; vertical-align: top;
+}
+#page-request #request_form #fieldset-requested tbody .choice {
+	width: 50px;
+}
+#page-request #request_form #fieldset-requested tbody .ob {
+	width: 80px;
+}
+#page-request #request_form #fieldset-requested tbody .property {
+	width: 150px;
+}
+#page-request #request_form #fieldset-requested tbody .property img {
+	width: 150px;
+}
+#page-request #request_form #fieldset-requested tbody .property a {
+	color: rgb(51, 51, 51); text-decoration: none;
+}
+#page-request #request_form #fieldset-requested tbody .property span {
+	background: #ffffff; padding: 10px 6px; border: 1px solid rgb(240, 240, 240); width: 136px; font-size: 14px; font-weight: bold; text-decoration: none; margin-top: -4px; display: block;
+}
+#page-request #request_form .x-weekly span {
+	background: url("http://static.kigo.net/templates/simple/img/icon-info-big.png") no-repeat right; padding-right: 20px; cursor: help;
+}
+#page-request #request_form .x-weekly > div {
+	position: relative;
+}
+#page-request #request_form .x-weekly > div > div {
+	background: #ffffff; padding: 8px; border: 1px solid rgb(240, 240, 240); top: 20px; width: 140px; display: none; position: absolute; box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.33); -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.33); -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.33);
+}
+#page-request #request_form .x-weekly > div:hover > div {
+	display: block;
+}
+#page-request #request_form #fieldset-visited {
+	background: #ffffff; width: 648px; clear: left; margin-bottom: 20px; border-right-color: rgb(240, 240, 240); border-left-color: rgb(240, 240, 240); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid; float: left;
+}
+#page-request #request_form #fieldset-visited legend {
+	background: rgb(74, 74, 74); padding: 12px 20px; border: 1px solid rgb(74, 74, 74); width: 606px; color: rgb(178, 166, 155); font-size: 16px; display: block;
+}
+#page-request #request_form #fieldset-visited .visited_properties {
+	padding-top: 10px;
+}
+#page-request #request_form #fieldset-visited table {
+	margin: 0px auto; width: 96%;
+}
+#page-request #request_form #fieldset-visited table > thead tr {
+	background: rgb(240, 240, 240); height: 20px; vertical-align: middle;
+}
+#page-request #request_form #fieldset-visited table > thead tr td {
+	padding: 6px 0px; height: 20px; text-align: center; font-weight: bold; vertical-align: middle;
+}
+#page-request #request_form #fieldset-visited table > tbody tr {
+	border-bottom-color: rgb(240, 240, 240); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#page-request #request_form #fieldset-visited table tbody td {
+	text-align: center; padding-top: 14px; padding-bottom: 10px; vertical-align: top;
+}
+#page-request #request_form .calcprice .rent-and-discounts {
+	display: none;
+}
+#page-request #request_form .calcprice > div > div {
+	display: none;
+}
+#page-request #request_form #fieldset-visited tbody .property {
+	width: 150px;
+}
+#page-request #request_form #fieldset-visited tbody .property img {
+	width: 150px;
+}
+#page-request #request_form #fieldset-visited tbody .property img {
+	left: 149px; display: none; position: absolute; z-index: 20;
+}
+#page-request #request_form #fieldset-visited tbody .property a:hover img {
+	display: block;
+}
+#page-request #request_form #fieldset-visited tbody .property a {
+	color: rgb(51, 51, 51); text-decoration: none; position: relative;
+}
+#page-request #request_form #fieldset-visited tbody .property span {
+	background: #ffffff; padding: 10px 6px; border: 1px solid rgb(240, 240, 240); width: 136px; font-size: 14px; font-weight: bold; text-decoration: none; margin-top: -4px; display: block;
+}
+#page-request #request_form .none#fieldset-requested {
+	display: none;
+}
+#page-request #request_form .none#fieldset-visited {
+	display: none;
+}
+#page-request #request_form .none#fieldset-coupon {
+	display: none;
+}
+#page-request #request_form #fieldset-details {
+	background: #ffffff; width: 648px; clear: left; border-right-color: rgb(240, 240, 240); border-left-color: rgb(240, 240, 240); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid; float: left;
+}
+#page-request #request_form #fieldset-details legend {
+	background: rgb(240, 240, 240); padding: 12px 20px; width: 608px; font-size: 18px; font-weight: bold; margin-bottom: 10px;
+}
+#page-request #request_form #fieldset-details .input_element {
+	margin: 0px 20px;
+}
+#page-request #request_form .buttonsblock {
+	background: #ffffff; width: 648px; text-align: right; clear: left; border-right-color: rgb(240, 240, 240); border-bottom-color: rgb(240, 240, 240); border-left-color: rgb(240, 240, 240); border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; float: left;
+}
+#page-request #request_form .buttonsblock button {
+	margin-right: 50px;
+}
+#page-request #request_form .buttonsblock button span::after {
+	content: " ?";
+}
+#page-requestthankyou h1#pagetitle {
+	background: url("http://static.kigo.net/templates/simple/img/thankyou.png") no-repeat 15px rgb(240, 240, 240); padding: 15px 20px 15px 55px;
+}
+#request_form .remove {
+	text-align: center;
+}
+#request_form .add {
+	text-align: center;
+}
+#request_form .add a {
+	background: url("http://static.kigo.net/templates/simple/img/sprites.png") no-repeat 0px -147px; width: 29px; height: 29px; text-indent: -9999px; display: inline-block;
+}
+#request_form .remove a {
+	background: url("http://static.kigo.net/templates/simple/img/sprites.png") no-repeat 0px -114px; width: 29px; height: 29px; text-indent: -9999px; display: inline-block;
+}
+.request_list a {
+	background: url("http://static.kigo.net/templates/simple/img/sprites.png") no-repeat 0px -309px; width: 42px; height: 42px; text-indent: -9999px; display: block;
+}
+.request_list a.in_list {
+	background-position: 0px -265px;
+}
+.ppp-prev {
+	display: none;
+}
+.ppp-next {
+	display: none;
+}
+#page-ob-summary #pagetitle {
+	padding: 15px 20px; font-size: 18px;
+}
+#error_invalid_url {
+	padding: 15px 20px; background-color: rgb(240, 240, 240);
+}
+#page-ob-summary #pageimage {
+	clear: both;
+}
+#make_ob {
+	background: #ffffff; padding: 10px 10px 20px 20px; border: 1px solid rgb(240, 240, 240);
+}
+#make_ob::after {
+	display: table; content: "";
+}
+#make_ob::after {
+	clear: both;
+}
+#ob_form {
+	width: 610px; float: left;
+}
+#ob_info {
+	width: 290px; float: right;
+}
+#ob_info table caption {
+	margin: 0px;
+}
+#ob_info > h4 {
+	display: none;
+}
+#ob_info > a {
+	display: block; position: relative;
+}
+#ob_info > a span {
+	padding: 12px 10px; border: 1px solid rgb(222, 222, 222); top: 195px; width: 268px; color: rgb(51, 51, 51); font-size: 16px; font-weight: bold; display: block; position: absolute; z-index: 10; background-color: #ffffff;
+}
+#ob_info > a img {
+	top: 0px; width: 290px; position: absolute;
+}
+#ob_info .summary-dates {
+	margin-top: 250px;
+}
+#ob_info .summary-dates table {
+	border: 1px solid rgb(240, 240, 240); width: 100%;
+}
+#ob_info .summary-dates table th {
+	font-weight: bold;
+}
+#ob_info .summary-dates table th {
+	background: #ffffff; padding: 8px 22px; text-align: left; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+#ob_info .summary-dates table td {
+	background: #ffffff; padding: 8px 22px; text-align: left; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+#ob_info .summary-dates caption {
+	background: url("http://static.kigo.net/templates/simple/img/table-dates.png") no-repeat 20px rgb(240, 240, 240); padding: 12px 10px 12px 49px; text-align: left; color: rgb(74, 74, 74); font-size: 16px;
+}
+#ob_info .summary-guests {
+	margin-top: 20px;
+}
+#ob_info .summary-guests table {
+	border: 1px solid rgb(240, 240, 240); width: 100%;
+}
+#ob_info .summary-guests table th {
+	padding: 8px 22px; text-align: right; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+#ob_info .summary-guests table td {
+	padding: 8px 22px; text-align: right; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+#ob_info .summary-guests table th {
+	background: #ffffff; text-align: left; font-weight: bold;
+}
+#ob_info .summary-guests table .n_total {
+	display: none;
+}
+#ob_info .summary-guests caption {
+	background: url("http://static.kigo.net/templates/simple/img/table-guests.png") no-repeat 20px rgb(240, 240, 240); padding: 12px 10px 12px 49px; text-align: left; color: rgb(74, 74, 74); font-size: 16px;
+}
+#ob_info .calcprice {
+	border: 1px solid rgb(240, 240, 240); margin-top: 20px;
+}
+#ob_info h4.rent-and-discounts {
+	background: url("http://static.kigo.net/templates/simple/img/table-price.png") no-repeat 20px rgb(240, 240, 240); padding: 12px 10px 12px 49px; text-align: left; color: rgb(74, 74, 74); font-size: 16px; margin-bottom: 0px;
+}
+.loading #ob_info .price table {
+	opacity: 0.7;
+}
+#ob_info .calcprice table {
+	margin: 0px; width: 100%;
+}
+#ob_info .calcprice table th {
+	padding: 8px 22px; text-align: right; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+#ob_info .calcprice table td {
+	padding: 8px 22px; text-align: right; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+#ob_info .calcprice table th {
+	width: 125px; text-align: left; font-weight: bold;
+}
+#ob_info .calcprice table tbody span.qt_x {
+	margin-left: 10px;
+}
+#ob_info .calcprice table .total-fees th {
+	color: #a93393; font-weight: bold; border-top-color: rgb(74, 74, 74); border-top-width: 1px; border-top-style: solid;
+}
+#ob_info .calcprice table .total-fees td {
+	color: #a93393; font-weight: bold; border-top-color: rgb(74, 74, 74); border-top-width: 1px; border-top-style: solid;
+}
+#ob_info .calcprice table .total-services th {
+	color: #a93393; font-weight: bold; border-top-color: rgb(74, 74, 74); border-top-width: 1px; border-top-style: solid;
+}
+#ob_info .calcprice table .total-services td {
+	color: #a93393; font-weight: bold; border-top-color: rgb(74, 74, 74); border-top-width: 1px; border-top-style: solid;
+}
+#ob_info .calcprice table .total-all th {
+	background-color: rgb(238, 238, 238);
+}
+#ob_info .calcprice table .total-all td {
+	background-color: rgb(238, 238, 238);
+}
+#ob_info .calcprice table .ob-amount th {
+	color: #ffffff; background-color: rgb(74, 74, 74);
+}
+#ob_info .calcprice table .ob-amount td {
+	color: #ffffff; background-color: rgb(74, 74, 74);
+}
+#ob_info .calcprice table caption {
+	display: none;
+}
+#ob_info .calcprice .nightly-rent-and-discounts-and-fees {
+	display: none;
+}
+#ob_info .calcprice span.rent-and-discounts {
+	display: none;
+}
+#ob_info .calcprice .rent-and-discounts-and-fees {
+	display: none;
+}
+#ob_info .calcprice .nightly-rent {
+	display: none;
+}
+#request_submitting {
+	background: rgb(255, 236, 132); padding: 5px 10px; width: 590px; margin-top: 10px; float: left; display: none;
+}
+#ob_submitting {
+	background: rgb(255, 236, 132); padding: 5px 10px; width: 590px; margin-top: 10px; float: left; display: none;
+}
+.mandatory > label::after {
+	margin-left: 5px; content: "*";
+}
+#fieldset-details legend {
+	font-size: 18px; font-weight: bold;
+}
+#fieldset-services legend {
+	font-size: 18px; font-weight: bold;
+}
+#fieldset-details legend {
+	margin-bottom: 10px;
+}
+#fieldset-services select {
+	padding: 4px 25px 0px 7px; width: 50px;
+}
+body#page-ob-summary div#global div.loading#functions form div#ob_services {
+	opacity: 0.7;
+}
+#fieldset-details select {
+	border: 1px solid rgb(226, 226, 226); width: 290px; color: rgb(114, 114, 114); margin-bottom: 10px; white-space: nowrap; -webkit-appearance: none;
+}
+#fieldset-details label {
+	color: rgb(115, 115, 115); font-size: 14px; margin-bottom: 6px; display: block;
+}
+#fieldset-services #ob_services table {
+	width: 95%; margin-top: 6px; margin-bottom: 20px;
+}
+#fieldset-services #ob_services table thead tr td {
+	background: rgb(240, 240, 240); padding: 5px 8px; font-weight: bold;
+}
+#fieldset-services #ob_services table tbody tr td {
+	padding: 5px 8px; vertical-align: middle; border-bottom-color: rgb(240, 240, 240); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+#fieldset-services #ob_services table tbody tr td.add a {
+	background: url("http://static.kigo.net/templates/simple/img/icon-add-remove.png") no-repeat left top; width: 32px; height: 29px; text-indent: -9999px; display: inline-block;
+}
+#fieldset-services #ob_services table tbody tr td.add a:hover {
+	background-position: left bottom;
+}
+#fieldset-services #ob_services table tbody tr td.remove a {
+	background: url("http://static.kigo.net/templates/simple/img/icon-add-remove.png") no-repeat right top; width: 31px; height: 29px; text-indent: -9999px; display: inline-block;
+}
+#fieldset-services #ob_services table tbody tr td.remove a:hover {
+	background-position: right bottom;
+}
+#ob_form .submit {
+	width: 565px; text-align: right;
+}
+#ob_form .submit .terms input {
+	width: auto;
+}
+#availability_calendar {
+	padding: 1px 0px 30px; width: 648px; float: left; display: block; position: relative;
+}
+#availability_calendar h3 {
+	margin: 30px 0px 15px; font-size: 18px; font-weight: bold;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container {
+	width: 100% !important;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container div.kigo_calendar {
+	width: 100% !important;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container div.days {
+	width: 630px !important;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container div.months {
+	width: 60px !important;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container div.month {
+	width: 60px !important;
+}
+body.template-property div#global div#functions div#availability_calendar .close {
+	display: none;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container .controls {
+	background: url("http://static.kigo.net/templates/simple/img/sprites.png") no-repeat 260px -87px; margin-top: 10px;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container .controls a {
+	background: url("http://static.kigo.net/templates/simple/images/arrows.png") no-repeat 0px 0px; padding: 0px; border: currentColor; width: 25px; height: 25px; display: block; cursor: pointer;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container .controls a {
+	width: 60px; color: #a93393; text-decoration: none; display: block;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container .controls a.disabled {
+	color: rgb(114, 114, 114); cursor: default;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container .controls .forward {
+	float: right;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container .controls .forward a::after {
+	content: " ?";
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container .controls .back {
+	float: left;
+}
+body.template-property div#global div#functions div#availability_calendar div#availability_calendar_container .controls .back a::before {
+	content: "? ";
+}
+.mh {
+	height: 18px; float: left;
+}
+.mc {
+	height: 18px; float: left;
+}
+.oh {
+	height: 18px; float: left;
+}
+.oc {
+	height: 18px; float: left;
+}
+.s {
+	height: 18px; float: left;
+}
+.eom {
+	height: 18px; float: left;
+}
+.month {
+	height: 18px; float: left;
+}
+.boh {
+	width: 9px !important; height: 18px; float: left;
+}
+.eoh {
+	width: 9px !important; height: 18px; float: left;
+}
+.boc {
+	width: 9px !important; height: 18px; float: left;
+}
+.eoc {
+	width: 9px !important; height: 18px; float: left;
+}
+.bmh {
+	width: 9px !important; height: 18px; float: left;
+}
+.emh {
+	width: 9px !important; height: 18px; float: left;
+}
+.bmc {
+	width: 9px !important; height: 18px; float: left;
+}
+.emc {
+	width: 9px !important; height: 18px; float: left;
+}
+.bs {
+	width: 9px !important; height: 18px; float: left;
+}
+.es {
+	width: 9px !important; height: 18px; float: left;
+}
+.bn {
+	width: 9px !important; height: 18px; float: left;
+}
+.en {
+	width: 9px !important; height: 18px; float: left;
+}
+.n {
+	height: 18px; float: left;
+}
+.kigo_calendar .day {
+	background: url("http://static.kigo.net/templates/simple/img/calendar/bg-day.png") 0px 0px; width: 18px; height: 18px; text-align: center; color: #ffffff; line-height: 18px; overflow: hidden; font-size: 11px; vertical-align: middle; float: left; display: table-cell;
+}
+#appheader div.middle {
+	background-image: none;
+}
+#appheader div.first {
+	background-image: none;
+}
+#appheader div.last {
+	background-image: none;
+}
+.month {
+	background: url("http://static.kigo.net/templates/simple/img/calendar/bg-month.png") 0px 0px; text-align: right; color: #ffffff; line-height: 18px; overflow: hidden; padding-right: 10px; font-size: 11px; font-weight: bold;
+}
+.months {
+	background: url("http://static.kigo.net/templates/simple/img/calendar/bg-month.png") 0px 0px; text-align: right; color: #ffffff; line-height: 18px; overflow: hidden; padding-right: 10px; font-size: 11px; font-weight: bold;
+}
+.month {
+	clear: left;
+}
+.months {
+	float: left;
+}
+.reservations {
+	background: url("http://static.kigo.net/templates/simple/img/calendar/block-bg-small.png") 0px 0px; float: left;
+}
+.clickable {
+	cursor: pointer;
+}
+.mh {
+	background: url("http://static.kigo.net/templates/simple/img/calendar/bg-day-reserved.png") 0px 0px;
+}
+.mc {
+	background: url("http://static.kigo.net/templates/simple/img/calendar/bg-day-reserved.png") 0px 0px;
+}
+.bmc {
+	background: url("http://static.kigo.net/templates/simple/img/calendar/bg-day-reserved.png") 0px 0px;
+}
+.bmc {
+	background: url("http://static.kigo.net/templates/simple/img/calendar/bg-day-reserved.png") right top;
+}
+.emc {
+	background: url("http://static.kigo.net/templates/simple/img/calendar/bg-day-reserved.png") left top;
+}
+.en {
+	background-repeat: no-repeat;
+}
+.eom {
+	background: #ffffff;
+}
+.tooltip {
+	font-size: 7pt;
+}
+.ttAgency {
+	font-weight: bold;
+}
+.ttGuest {
+	text-decoration: underline;
+}
+.ttFreeArea {
+	font-weight: bold;
+}
+#calendar_container .start_end_block {
+	float: left !important;
+}
+.col2#block .column {
+	padding: 18px 20px;
+}
+.col2#block .column p {
+	text-align: left; line-height: 18px; margin-bottom: 10px;
+}
+#top-wrapper {
+	margin: 0px auto; width: 960px; height: 0px; position: relative;
+}
+ul#languages {
+	background: #5B4B4B; border-width: medium 1px 1px; border-style: none solid solid; border-color: currentColor #5B4B4B #5B4B4B; margin: 0px; padding: 2px 0px; border-radius: 0px 0px 3px 3px; top: 0px; right: 0px; position: absolute; z-index: 20; -webkit-border-radius: 0 0 3px 3px; -moz-border-radius: 0 0 3px 3px;
+}
+ul#languages li a {
+	background: url("http://static.kigo.net/templates/simple/img/icon-lang.png") no-repeat left top; width: 22px; height: 16px; text-indent: -9999px; display: block;
+}
+ul#languages #en a {
+	
+}
+ul#languages #fr a {
+	background-position: 0px -21px;
+}
+ul#languages #es a {
+	background-position: 0px -42px;
+}
+ul#languages #de a {
+	background-position: 0px -63px;
+}
+ul#languages #it a {
+	background-position: 0px -84px;
+}
+ul#languages #sv a {
+	background-position: 0px -105px;
+}
+ul#languages #fi a {
+	background-position: 0px -126px;
+}
+ul#languages #ru a {
+	background-position: 0px -147px;
+}
+ul#languages #pt a {
+	background-position: 0px -168px;
+}
+ul#languages #pl a {
+	background-position: 0px -189px;
+}
+ul#languages li {
+	padding: 6px 19px 6px 6px; display: none;
+}
+ul#languages li:first-child {
+	background: url("http://static.kigo.net/templates/simple/img/lang-arr.png") no-repeat right; width: 22px; height: 16px; display: block;
+}
+ul#languages:hover li {
+	display: block;
+}
+ul#languages li:hover {
+	background-color: #ffffff;
+}
+ul#contact {
+	padding: 0px; top: 10px; right: 60px; position: absolute; z-index: 10;
+}
+ul#contact li {
+	padding-left: 16px; margin-left: 20px; display: inline-block;
+}
+ul#contact .phone {
+	background: url("http://static.kigo.net/templates/simple/img/icon-phone.png") no-repeat left;
+}
+ul#contact .email {
+	background: url("http://static.kigo.net/templates/simple/img/icon-email.png") no-repeat left;
+}
+ul#contact .facebook{
+	background: url("http://static.kigo.net/templates/simple/img/icon-fb.png") no-repeat left;
+}
+ul#contact .twitter{
+	background: url("http://static.kigo.net/templates/simple/img/icon-tw.png") no-repeat left;
+}
+#sharer {
+	margin: 0px auto; width: 960px; height: 0px; position: relative;
+}
+#sharer::after {
+	display: table; content: "";
+}
+#sharer::after {
+	clear: both;
+}
+#sharer ul {
+	list-style: none; margin: 0px; padding: 0px; top: 108px; width: 210px; right: 290px; position: absolute; z-index: 20;
+}
+#sharer li {
+	width: 80px; margin-right: 10px; float: left;
+}
+#page-home .slider-wrapper {
+	padding: 0px; border: 4px solid #ffffff; top: 97px; height: 430px; position: absolute;
+}
+.nivo-controlNav {
+	display: none;
+}
+.nivo-directionNav {
+	display: none;
+}
+#searchmenus #searchmenu_1 #search_coupon h3 {
+	display: none;
+}
+#searchmenus #searchmenu_1 #search_coupon #fieldset-coupon legend {
+	color: #ffffff; padding-bottom: 0px; font-size: 12px; font-weight: normal; margin-bottom: 0px;
+}
+.coupon-unknown#fieldset-coupon .coupon_error {
+	display: none;
+}
+.coupon-verifying#fieldset-coupon .coupon_error {
+	display: none;
+}
+.template-property .coupon .coupon-unknown#fieldset-coupon .coupon_error {
+	display: none;
+}
+.template-property .coupon .coupon-verifying#fieldset-coupon .coupon_error {
+	display: none;
+}
+#fieldset-coupon .valid_coupon {
+	background: rgb(240, 240, 240); padding: 4px 10px; border: 1px solid rgb(226, 226, 226); color: #000000; line-height: 20px; font-size: 10px; font-weight: bold; display: inline-block; box-sizing: border-box;
+}
+.coupon .valid_coupon {
+	background: rgb(240, 240, 240); padding: 4px 10px; border: 1px solid rgb(226, 226, 226); color: #000000; line-height: 20px; font-size: 10px; font-weight: bold; display: inline-block; box-sizing: border-box;
+}
+.coupon-invalid#fieldset-coupon .coupon_error {
+	background: rgb(244, 244, 244); padding: 4px 8px; text-align: center; color: rgb(223, 57, 70); font-size: 10px; font-weight: bold; display: block; box-shadow: 0px -1px 1px -11px #fff;
+}
+.template-property .coupon .coupon_error {
+	background: rgb(244, 244, 244); padding: 4px 8px; text-align: center; color: rgb(223, 57, 70); font-size: 10px; font-weight: bold; display: block; box-shadow: 0px -1px 1px -11px #fff;
+}
+#searchmenus #searchmenu_1 #search_coupon .coupon-invalid#fieldset-coupon .coupon_error span {
+	margin-top: 0px;
+}
+#searchmenus #searchmenu_1 #search_coupon input[type='text'] {
+	margin: 0px; border-radius: 3px / 3px 3px 4px 4px; border: 1px solid rgb(226, 226, 226); width: 113px; height: 32px; color: rgb(114, 114, 114); font-size: 11px; float: left; display: block; box-sizing: border-box; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.11); background-color: #ffffff; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-border-radius: 3px/3px 3px 4px 4px; -moz-border-radius: 3px/3px 3px 4px 4px;
+}
+.template-property .coupon input[type='text'] {
+	margin: 0px; border-radius: 3px / 3px 3px 4px 4px; border: 1px solid rgb(226, 226, 226); width: 113px; height: 32px; color: rgb(114, 114, 114); font-size: 11px; float: left; display: block; box-sizing: border-box; box-shadow: inset 0px 2px 4px rgba(0,0,0,0.11); background-color: #ffffff; -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, .11); -webkit-border-radius: 3px/3px 3px 4px 4px; -moz-border-radius: 3px/3px 3px 4px 4px;
+}
+#fieldset-coupon button {
+	border-color: rgb(169, 48, 146) rgb(169, 48, 146) hsl(204, 100%, 30%); padding: 4px 6px; font-size: 10px; font-style: normal; margin-top: 0px; margin-bottom: 0px; margin-left: 10px; white-space: nowrap; text-shadow: 0px -1px 0px rgba(0,0,0,0.13); background-image: linear-gradient(rgb(0, 122, 204), rgb(169, 48, 146)); background-repeat: repeat-x; background-color: hsl(204, 100%, 32%);
+}
+.template-property .coupon button[type='button'] {
+	border-color: rgb(169, 48, 146) rgb(169, 48, 146) hsl(204, 100%, 30%); padding: 4px 6px; font-size: 10px; font-style: normal; margin-top: 0px; margin-bottom: 0px; margin-left: 10px; white-space: nowrap; text-shadow: 0px -1px 0px rgba(0,0,0,0.13); background-image: linear-gradient(rgb(0, 122, 204), rgb(169, 48, 146)); background-repeat: repeat-x; background-color: hsl(204, 100%, 32%);
+}
+.coupon-valid#fieldset-coupon button[type='button'] {
+	background-position: 0px -21px; padding: 0px 6px; border: 0px currentColor; box-shadow: none; background-image: linear-gradient(rgb(246, 40, 59), rgb(246, 40, 59)); background-color: hsla(5, 100%, 35%, 1);
+}
+.coupon-valid#fieldset-coupon button[type='button']:hover {
+	background-position: 0px -21px; padding: 0px 6px; border: 0px currentColor; box-shadow: none; background-image: linear-gradient(rgb(246, 40, 59), rgb(246, 40, 59)); background-color: hsla(5, 100%, 35%, 1);
+}
+.template-property .coupon .coupon-valid#fieldset-coupon button[type='button'] {
+	background-position: 0px -21px; padding: 0px 6px; border: 0px currentColor; box-shadow: none; background-image: linear-gradient(rgb(246, 40, 59), rgb(246, 40, 59)); background-color: hsla(5, 100%, 35%, 1);
+}
+#searchmenus #searchmenu_1 #search_coupon button[disabled] {
+	opacity: 0.8;
+}
+.template-property .coupon button[disabled] {
+	opacity: 0.8;
+}
+#page-home #searchmenus #searchmenu_1 #search_coupon {
+	margin: 0px auto; padding: 0px; width: 295px; float: none; background-color: transparent;
+}
+#page-home #searchmenus #searchmenu_1 #search_coupon h3 {
+	display: none;
+}
+#page-home #searchmenus #searchmenu_1 #search_coupon #fieldset-coupon input {
+	border: 1px solid #000000; margin-left: 0px;
+}
+#page-home #searchmenus #searchmenu_1 #search_coupon .coupon-invalid#fieldset-coupon .coupon_error {
+	top: 47px; position: absolute;
+}
+body.template-page-searchres #searchmenus #searchmenu_1 #search_coupon {
+	padding: 4px 12px; top: 58px; right: 0px; position: absolute;
+}
+body#search #searchmenus #searchmenu_1 #search_coupon {
+	padding: 4px 12px; top: 58px; right: 0px; position: absolute;
+}
+body.template-page-searchres #searchmenus #searchmenu_1 #search_coupon > form {
+	float: right;
+}
+body#search #searchmenus #searchmenu_1 #search_coupon > form {
+	float: right;
+}
+body.template-page-searchres #searchmenus #searchmenu_1 #search_coupon legend {
+	color: #000000; display: none;
+}
+body#search #searchmenus #searchmenu_1 #search_coupon legend {
+	color: #000000; display: none;
+}
+body.template-page-searchres #searchmenus #searchmenu_1 #search_coupon .coupon-invalid#fieldset-coupon .coupon_error {
+	left: 20px; top: 29px; position: absolute;
+}
+body#search #searchmenus #searchmenu_1 #search_coupon .coupon-invalid#fieldset-coupon .coupon_error {
+	left: 20px; top: 29px; position: absolute;
+}
+.template-property .coupon h3 {
+	display: none;
+}
+.template-property #fieldset-coupon {
+	padding: 0px 0px 0px 20px; height: 100%; clear: both; display: block;
+}
+.template-property #fieldset-coupon legend {
+	font-size: 14px; font-weight: normal; margin-bottom: 4px; display: block;
+}
+.template-property #fieldset-coupon input[type='text'] {
+	width: 122px;
+}
+.template-property .coupon .coupon_error {
+	top: 47px; position: absolute;
+}
+.template-property .coupon .coupon_error {
+	top: 47px; position: absolute;
+}
+#request_form #fieldset-coupon {
+	width: 650px; margin-bottom: 20px; display: block; background-color: #ffffff;
+}
+#request_form #fieldset-coupon legend {
+	background: rgb(240, 240, 240); padding: 12px 20px; width: 608px; font-size: 18px; font-weight: bold; margin-bottom: 10px;
+}
+#request_form #fieldset-coupon button {
+	margin: 0px;
+}
+#request_form .coupon-valid#fieldset-coupon button {
+	margin-top: 5px;
+}
+#request_form #fieldset-coupon input[type='text'] {
+	margin: 0px 10px 0px 20px; width: 120px;
+}
+#request_form .coupon-invalid#fieldset-coupon .coupon_error {
+	left: 20px; display: block; position: absolute;
+}
+#request_form #fieldset-coupon .valid_coupon {
+	margin-right: 10px; margin-left: 20px; float: left; display: block;
+}
+#page-ob-summary #fieldset-coupon {
+	margin-bottom: 20px;
+}
+#page-ob-summary #fieldset-coupon legend {
+	font-size: 18px; font-weight: bold;
+}
+#page-ob-summary #fieldset-coupon input[type='text'] {
+	width: 120px; margin-bottom: 0px;
+}
+#page-ob-summary .coupon-invalid#fieldset-coupon .coupon_error {
+	top: 85px; position: absolute;
+}
+body {
+	-ms-overflow-x: hidden;
+}
+#page-home #pageimage {
+	border: 0px currentColor !important; width: 960px !important; text-align: center;
+}
+#page-home .slider-wrapper {
+	border: 0px currentColor !important; position: static;
+}
+#pageimage #pageimage_1 {
+	position: absolute;
+	right: 0px;
+}
+#block-3{
+	background:transparent; right: 0px; position:absolute;padding: 2px 2px 0px;
+}
